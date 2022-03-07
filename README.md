@@ -5,5 +5,5 @@
   
   Be aware that parsing untrusted data may pose a security risk. Although this program should not contain any known vulnerabilities, you may use some compensating measures, for example run it inside an isolated environment.
 
-# Prerequities
+# Prerequisites
   It needs `defusedxml` module to be installed.
